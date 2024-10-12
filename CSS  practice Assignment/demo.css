@@ -1,0 +1,21 @@
+/*  Universal selector  */
+ *{ 
+     background-color: deeppink; 
+}
+/* Type selector */
+p{
+      color:blue; background-color: chartreuse;  
+}
+/* body type selector */
+/* body{ */
+    /* background-color: bisque; */
+/* } */
+
+/* Class selector */
+.paragraph{
+    background-color: aquamarine;
+}
+/*Id selector*/
+#work{
+    background-color: burlywood;
+}
